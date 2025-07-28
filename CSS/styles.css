@@ -1,0 +1,22 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.card {
+    margin: 50px auto;
+    min-height: 90vh;
+    width: 90%;
+    background-color: lightblue;
+    border: 5px solid black;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.links ul {
+    list-style-type: none;
+}
+
+
+
