@@ -78,12 +78,18 @@ h1 {
     margin-bottom: 2px;
 }
 
-@Media screen and (max-width: 500px)
+@Media screen and (max-width: 870px)
 {
-    .card {
-        background-color: yellow;
+    .heading{
+        margin-top: -40px;
+        margin-bottom: 70px;
+    }
+
+    .image {
+        margin-bottom: 30px;
     }
 }
+
 
 @Media screen and (max-width: 1240px)
 {
